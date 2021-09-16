@@ -4,7 +4,7 @@ A barebone/minimal starter template for the eleventy static-site generator.
 
 Includes an empty base layout, empty static files that get included in the base
 layout and are available at `/static/css/style.css` and `/static/js/script.js`
-and a `facicon.ico` that gets included when building the site.
+and a `favicon.ico` that gets included when building the site.
 
 ## Usage
 
@@ -32,7 +32,7 @@ npx eleventy --serve
 ```
 
 Detailed guide on how to use eleventy can be found on their official docs
-[here](https://www.11ty.dev/docs/)
+[here](https://www.11ty.dev/docs/).
 
 ## Template layout
 
